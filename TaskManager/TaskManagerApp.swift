@@ -1,6 +1,6 @@
 //
 //  TaskManagerApp.swift
-//  TaskManager
+//  Task Manager
 //
 //  Created by Zemanister Agues on 01/05/25.
 //
